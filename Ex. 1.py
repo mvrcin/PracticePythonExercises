@@ -6,3 +6,6 @@ age = int(input("Ile masz lat?:"))
 year = int(input("Podaj aktualny rok:"))
 death = str(year - age + 100)
 print(name, "100 lat skonczysz w",death, "roku.")
+
+# Try to print out just a simple string instead of a tuple.
+# Read something about strings formatting.
